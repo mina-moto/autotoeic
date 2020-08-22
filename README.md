@@ -1,6 +1,6 @@
 # autotoeic
 
-Automatically solve toeic reading problems.
+This will automatically solve the problems in the toeic reading part (part5,6,7).
 
 ## Part5
 Diversion of [toeicbert](https://github.com/graykode/toeicbert)．
